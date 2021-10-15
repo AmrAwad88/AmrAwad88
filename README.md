@@ -2,6 +2,7 @@
 - 👀 I’m interested in Electrical Enginnering and Information Technology
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C++ projects or PLC programming projects
+- ✨ Here is my Leetcode link: https://leetcode.com/AmrAwad/
 - 📫 How to reach me, here is my e-mail: awad.amr1988@gmail.com
 
 <!---
